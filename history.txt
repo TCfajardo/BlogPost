@@ -1,2 +1,4 @@
 Hola mundo!
 Este proyecto es para buenas practicas de git
+
+Voy a eliminar esta linea
